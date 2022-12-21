@@ -94,7 +94,7 @@ The high-level steps covered in the lab are:
 
 1. If you see **Click here to trust this compute instance** , click on it .
 
-    ![](./media/trustcode01new.png)
+    ![](./media/trustcode01new)
     
 ## Task 4 - Prepare data for the Machine Learning process
 
