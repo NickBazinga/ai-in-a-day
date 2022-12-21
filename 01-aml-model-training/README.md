@@ -92,9 +92,9 @@ The high-level steps covered in the lab are:
 
     ![](./media/clickjupiter01.png)
 
-1. If you see **IMPORTANT NOTE: Always use trusted code** then check on **Yes, I Understand** and then click **Continue**.
+1. If you see **Click here to trust this compute instance** , click on it .
 
-    ![](./media/trustcode01.png)
+    ![](./media/trustcode01new.png)
     
 ## Task 4 - Prepare data for the Machine Learning process
 
